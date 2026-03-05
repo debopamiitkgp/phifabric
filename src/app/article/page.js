@@ -13,7 +13,6 @@ export default function Article() {
   return (
     <main style={{ paddingTop: 60, paddingBottom: 40 }}>
       <article className="container">
-        <div className="article-meta">Inaugural Exploration &middot; March 2026</div>
         <h1 className="article-title">The Entropy of Intelligence</h1>
         <div className="article-subtitle">
           Why Autonomous Reasoning is a Physical Phase Transition, Not a Software Abstraction

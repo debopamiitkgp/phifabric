@@ -18,8 +18,7 @@ export default function About() {
       <p>
         PhiFabric is written by <strong>Debopam</strong>, whose intellectual journey has
         traced an arc from Newtonian gravity through the block universe to Integrated Information
-        Theory and the holographic principle. By training, Debopam is a strategist with over
-        fourteen years in investment banking and corporate development. By conviction, a
+        Theory and the holographic principle. By conviction, a
         theoretical physicist wrestling with what reality actually is.
       </p>
       <p>
