@@ -31,7 +31,6 @@ export default function RootLayout({ children }) {
         <footer className="footer">
           <div className="container">
             <p style={{ marginBottom: 8 }}>
-              Part of the Fabric family &middot;{' '}
               <a href="https://fifabric.com" className="fabric-link">FiFabric</a> &middot;{' '}
               <a href="https://phifabric.com" className="fabric-link">PhiFabric</a>
             </p>
