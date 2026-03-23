@@ -9,7 +9,7 @@ export default function Home() {
           <h1>The Physics of What Is</h1>
           <p>
             Exploring the nature of reality through the analytical and cosmological lens
-            of a theoretical physicist.
+            of theoretical physics.
           </p>
         </div>
       </section>
