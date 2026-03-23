@@ -18,7 +18,7 @@ export default function Home() {
         <Link href="/bci-asymmetric-channel" style={{ textDecoration: 'none', color: 'inherit' }}>
           <div className="article-card">
             <div className="tag">Information Theory &middot; Neurotechnology &middot; Brain-Computer Interfaces</div>
-            <h2>The Asymmetric Channel</h2>
+            <h2>Information Theory, BCI, and the Bottleneck Between Thought and Action</h2>
             <p className="excerpt">
               The nervous system ingests a billion bits per second and transmits ten.
               That asymmetry&mdash;not engineering, not funding, not regulation&mdash;is

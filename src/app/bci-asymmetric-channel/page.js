@@ -4,7 +4,7 @@ import ElectroFrontier from '../../components/ElectroFrontier';
 import Link from 'next/link';
 
 export const metadata = {
-  title: 'What Information Theory Reveals About Brain-Computer Interfaces — PhiFabric',
+  title: 'Information Theory, BCI, and the Bottleneck Between Thought and Action — PhiFabric',
   description: 'The nervous system ingests a billion bits per second and transmits ten. That asymmetry is the constraint that will determine which neural interfaces succeed and which collide with biology.',
 };
 
@@ -13,7 +13,7 @@ export default function BCIArticle() {
     <main style={{ paddingTop: 60, paddingBottom: 40 }}>
       <article className="container">
         <h1 className="article-title">
-          What Information Theory Reveals About Brain-Computer Interfaces and the Bottleneck Between Thought and Action
+          Information Theory, BCI, and the Bottleneck Between Thought and Action
         </h1>
         <div className="article-subtitle">
           The nervous system ingests a billion bits per second and transmits ten. That asymmetry&mdash;not
