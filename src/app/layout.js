@@ -21,7 +21,7 @@ export default function RootLayout({ children }) {
               <span>Φ</span>Fabric
             </Link>
             <ul className="nav-links">
-              <li><Link href="/article">Explorations</Link></li>
+              <li><Link href="/entropic-work-function">Explorations</Link></li>
               <li><Link href="/about">About</Link></li>
               <li><Link href="/subscribe">Subscribe</Link></li>
             </ul>

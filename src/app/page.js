@@ -31,7 +31,7 @@ export default function Home() {
 
         <div style={{ height: 24 }} />
 
-        <Link href="/article" style={{ textDecoration: 'none', color: 'inherit' }}>
+        <Link href="/entropic-work-function" style={{ textDecoration: 'none', color: 'inherit' }}>
           <div className="article-card">
             <div className="tag">Thermodynamics &middot; Computation &middot; Phase Transitions</div>
             <h2>The Entropy of Intelligence</h2>
