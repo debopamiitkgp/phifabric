@@ -18,7 +18,7 @@ export default function Article() {
           Why Autonomous Reasoning is a Physical Phase Transition, Not a Software Abstraction
         </div>
         <div className="article-byline">
-          By <strong>Debopam</strong> &middot; PhiFabric.com
+          PhiFabric &middot; January 2026
         </div>
 
         <div className="article-body">
